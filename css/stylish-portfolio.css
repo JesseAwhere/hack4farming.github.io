@@ -112,6 +112,10 @@ hr.small {
     text-decoration: none;
 }
 
+.sidebar-nav img {
+    width: 100%;
+}
+
 .sidebar-nav > .sidebar-brand {
     height: 55px;
     font-size: 18px;
