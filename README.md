@@ -1,6 +1,6 @@
-# Hack4Farming East Africa - landing website
+# Hack4Farming - landing website
 
-Website hosting details about aWhere/Nafundi cohosted hackathon, to be held in Nairobi in August 2015.
+Website hosting details about aWhere cohosted hackathons.
 
 ##Start Bootstrap
 The Website was created using [Start Bootstrap](http://startbootstrap.com/) templates: [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/), and [Blog Post](http://startbootstrap.com/template-overviews/blog-post/). The original files have been modified, and all modifications from the original templates are the work of aWhere, Inc. Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
